@@ -1,6 +1,6 @@
 {
   "name": "node-cep",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": false,
   "author": "Kaique da Silva <kaique.developer@gmail.com>",
   "description": "Wrapper for correio control <http://cep.correiocontrol.com.br/>",
