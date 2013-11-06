@@ -22,4 +22,4 @@ cep
     .from('05211-000', print)
     .from('01310-200', print);
 ```
-## Licensa BSD
+## Licença BSD
