@@ -1,0 +1,12 @@
+{
+  "name": "node-cep",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Kaique da Silva <kaique.developer@gmail.com>",
+  "description": "Wrapper for correio control <http://cep.correiocontrol.com.br/>",
+  "dependencies": {
+    "charlatan": "~0.1.8",
+    "should": "~2.0.2",
+    "superagent": "~0.15.7"
+  }
+}
