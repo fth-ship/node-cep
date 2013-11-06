@@ -19,4 +19,5 @@ Módulo para lidar, com consultas ao [Correio control para buscar CEP's](http://
     }
     cep.request.data.from('05211-000', print);
     ```
+
 ## Licensa BSD
