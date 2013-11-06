@@ -1,5 +1,5 @@
 {
-  "name": "node-cep",
+  "name": "cep",
   "version": "0.0.1",
   "private": false,
   "author": "Kaique da Silva <kaique.developer@gmail.com>",
@@ -7,8 +7,10 @@
   "main": "./lib/index.js",
   "license": "BSD",
   "dependencies": {
-    "charlatan": "~0.1.8",
-    "should": "~2.0.2",
     "superagent": "~0.15.7"
+  },
+  "devDependencies": {
+    "charlatan": "~0.1.8",
+    "should": "~2.0.2"
   }
 }
