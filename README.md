@@ -17,6 +17,10 @@ Módulo para lidar, com consultas ao [Correio control para buscar CEP's](http://
     function print ( err, data ) { 
         console.log( err, data );  
     }
-    cep.request.data.from('05211-000', print);
+    cep
+        .request
+        .data
+        .from('05211-000', print)
+        .from('01310-200', print);
     ```
 ## Licensa BSD
