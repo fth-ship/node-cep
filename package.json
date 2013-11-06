@@ -4,6 +4,8 @@
   "private": false,
   "author": "Kaique da Silva <kaique.developer@gmail.com>",
   "description": "Wrapper for correio control <http://cep.correiocontrol.com.br/>",
+  "main": "./lib/index.js",
+  "license": "BSD",
   "dependencies": {
     "charlatan": "~0.1.8",
     "should": "~2.0.2",

@@ -2,7 +2,11 @@
 
 Módulo para lidar, com consultas ao [Correio control para buscar CEP's](http://cep.correiocontrol.com.br/)
 
-Veja o exemplo:
+## Instalação
+
+    [sudo] npm install cep
+
+## exemplo:
 
     ``` javascript 
     var cep = require('cep');
@@ -15,3 +19,4 @@ Veja o exemplo:
     }
     cep.request.data.from('05211-000', print);
     ```
+## Licensa BSD
